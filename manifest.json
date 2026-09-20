@@ -7,8 +7,8 @@
   "author": "Spyrella",
   "description": "A compendium pack for fultimator",
   "homepageUrl": "https://github.com/fultimator/fultimator-pack",
-  "manifestUrl": "https://github.com/fultimator/fultimator-pack",
-  "downloadUrl": "https://github.com/fultimator/fultimator-pack",
+  "manifestUrl": "https://github.com/fultimator/fultimator-pack/releases/latest/download/manifest.json",
+  "downloadUrl": "https://github.com/fultimator/fultimator-pack/releases/latest/download/fultimator-pack.fcp",
   "requires": [
     "official"
   ],
