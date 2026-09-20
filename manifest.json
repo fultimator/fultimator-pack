@@ -1,0 +1,20 @@
+{
+  "id": "cc2acf3a-52ad-44df-9aa0-8005b75225bb",
+  "fuid": "fultimator-pack",
+  "name": "Fultimator Pack",
+  "version": "1.0.0",
+  "type": "compendium",
+  "author": "Spyrella",
+  "description": "A compendium pack for fultimator",
+  "homepageUrl": "https://github.com/fultimator/fultimator-pack",
+  "manifestUrl": "https://github.com/fultimator/fultimator-pack",
+  "downloadUrl": "https://github.com/fultimator/fultimator-pack",
+  "requires": [
+    "official"
+  ],
+  "optional": [
+    "official"
+  ],
+  "fultimatorMinVersion": "2.0.0",
+  "createdAt": 1789941855823
+}
